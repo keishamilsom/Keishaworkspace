@@ -1,0 +1,13 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "/web/ect2200/session1"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "."
+		}
+	]
+}
